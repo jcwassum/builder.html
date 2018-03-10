@@ -1,44 +1,12 @@
-h1{
-  text-align: center;
-}
-li.nav{
-  display: inline-block;
-  padding: 4px;
-  font-size: 20px;
-}
-#navi{
-  text-align: right;
-  padding-right: 10px;
-}
-#header{
-  background-color: #4A5377;
-  border-top-right-radius: 45px;
-  margin-bottom: 0px;
-}
-p{
-  font-family: 'Titillium Web', sans-serif;
-}
 a:hover{
-  background-color: #AF9863;
-  border-radius: 5px;
-  padding: 2px
-}
-a{
-  text-decoration: none;
+  background-color: #3EB662;
   color: white;
 }
-footer{
+a:link{
+  text-decoration: none;
+    color: #D42F15;
+  opacity: .78;
 }
-#welcome{
-  font-family: 'Indie Flower', cursive;
-  padding-top: 10px;
-  color: #4A8359;
-  opacity: 1;
-}
-#main{
-  background-color: white;
-  margin-top: 0px;
-}
-body{
-  background-color: grey;
+a:visited{
+  color: black;
 }
